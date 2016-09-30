@@ -1,1 +1,1 @@
-# JavaSophomore's Custom Solutions :) 
+# JavaSophomore Solutions :)
